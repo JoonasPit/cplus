@@ -10,6 +10,6 @@ int main(){
     cout << "Anna toinen luku: ";
     cin >> usernum_second;
 
-    cout << usernum + usernum_second <<endl;
+    cout << "Antamiesi lukujen summa oli: " << usernum + usernum_second <<endl;
 
 }
